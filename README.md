@@ -1,3 +1,11 @@
+# Hand Gesture detection with YOLOv4
+Using 2 hand gesture:  
+- left  
+- right  
+
+
+
+----------------------------------------------------------------------------------------------
 # Yolo v4, v3 and v2 for Windows and Linux
 
 ## (neural networks for object detection)
