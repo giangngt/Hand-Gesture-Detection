@@ -34,6 +34,9 @@ build/.ninja_deps
 build/.ninja_log
 build/Makefile
 
+yolov4.conv.137
+backup/
+
 # OS Generated #
 .DS_Store*
 ehthumbs.db
@@ -55,4 +58,3 @@ include/darknet/
 uselib
 uselib_track
 darknet
-vcpkg/
